@@ -1,0 +1,11 @@
+[package]
+name = "sigmaos-archlinux32-keyring"
+version = "0.1.0"
+edition = "2021"
+authors = ["SigmaOS Contributors"]
+description = "SigmaOS archlinux32-keyring component (Arch Linux inspired)"
+license = "MIT OR Apache-2.0"
+
+[lib]
+name = "sigmaos_archlinux32-keyring"
+path = "src/lib.rs"
