@@ -7,5 +7,5 @@ description = "SigmaOS archlinux32-keyring component (Arch Linux inspired)"
 license = "MIT OR Apache-2.0"
 
 [lib]
-name = "sigmaos_archlinux32-keyring"
+name = "sigmaos_archlinux32_keyring"
 path = "src/lib.rs"
