@@ -3,7 +3,7 @@ name = "SigmaOS-archlinux32-keyring"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "archlinux32-keyring component"
+description = "SigmaOS SigmaOS-archlinux32-keyring component"
 upstream = []
 
 [contract]
